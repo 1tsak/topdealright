@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.1.0-beta01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/.gradle/caches/transforms-2/files-2.1/eec705a446405ec5d5d05bc3520e47ec/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/.gradle/caches/transforms-2/files-2.1/eec705a446405ec5d5d05bc3520e47ec/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/.gradle/caches/transforms-2/files-2.1/eec705a446405ec5d5d05bc3520e47ec/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/.gradle/caches/transforms-2/files-2.1/eec705a446405ec5d5d05bc3520e47ec/res" />
+      <root url="jar://$USER_HOME$/.gradle/.gradle/caches/transforms-2/files-2.1/eec705a446405ec5d5d05bc3520e47ec/jars/libs/room-common-java8-2.1.0-beta01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/.gradle/caches/modules-2/files-2.1/androidx.room/room-runtime/2.1.0-beta01/f9d8cc3c55eaa46c30317c12c33786f21c1eae47/room-runtime-2.1.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
