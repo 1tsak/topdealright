@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="topdealright/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/luckywheel.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/luckywheel.iml" group="topdealright/luckywheel" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topdealright.iml" filepath="$PROJECT_DIR$/.idea/modules/topdealright.iml" group="topdealright" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/topdealright.iml" filepath="$PROJECT_DIR$/.idea/modules/topdealright.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/topdealright.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/topdealright.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/luckywheel/topdealright.luckywheel.iml" filepath="$PROJECT_DIR$/.idea/modules/luckywheel/topdealright.luckywheel.iml" />
     </modules>
   </component>
 </project>
